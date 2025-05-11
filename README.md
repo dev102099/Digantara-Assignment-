@@ -25,5 +25,5 @@ Make sure you have **Node.js** and **npm** installed.
 git clone https://github.com/your-username/stencil-outline-threejs.git
 cd stencil-outline-threejs
 npm install
-npm start
+npm run dev
 ```
